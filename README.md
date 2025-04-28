@@ -46,3 +46,4 @@ _"Code is like humor. When you have to explain it, it’s bad."_ - Cory House
 ---
 
 Thanks for stopping by! Let's build something amazing together. 🚀✨
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Eaz1424&label=Profile%20views&color=0e75b6&style=flat" alt="Eaz1424" /> </p>
