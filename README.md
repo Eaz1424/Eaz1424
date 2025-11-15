@@ -9,7 +9,7 @@ Welcome to my little corner of GitHub! 🚀
 I'm a passionate tech nerd who loves turning ideas into code and dreams into reality. Whether it's crafting elegant solutions, transforming data into compelling narratives, exploring new technologies, or collaborating on exciting projects, I'm always up for a challenge. 💡✨
 
 - 🔭 **Currently Working On:** Building cool projects and sharpening my skills.
-- 🌱 **Learning:** Always curious! Currently diving deeper into Natural Language Processing 
+- 🌱 **Learning:** Always curious! Currently diving deeper into the usage of Machine Learning to solve environmental problems
 - 🎯 **Goals:** To keep learning endlessly.
 - ⚡ **Fun Fact:** I believe coffee ☕ + code 💻 = happiness!
 
